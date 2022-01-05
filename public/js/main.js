@@ -15,7 +15,7 @@ var isMobile = {
         return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera());
     }
 };
-//Test Comment 
+//Test Comment gfd
 if (isMobile.iOS() || isMobile.Android()) {
    $('#forSmallScreen').addClass('w-100');
     $('.inPCard').addClass('w-100');
