@@ -20,7 +20,7 @@ hr {
     background-color:var(--platinum);
 }
 .section_1 {
-    background-image: url('../public/images/web_development.jpg');
+    background-image: url('../images/web_development.jpg');
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
