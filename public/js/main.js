@@ -21,7 +21,7 @@ if (isMobile.iOS() || isMobile.Android()) {
     $('.inPCard').addClass('w-100');
     $('.portfolioSection').addClass("h-auto");
 };
-
+//test
 $(function(){
     //your current click function
     $('.scroll').on('click',function(e){
